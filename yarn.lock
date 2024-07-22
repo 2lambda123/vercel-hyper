@@ -865,10 +865,10 @@
     "@inquirer/type" "^1.5.1"
     ansi-escapes "^4.3.2"
 
-"@inquirer/prompts@^5.3.1":
-  version "5.3.1"
-  resolved "https://registry.npmjs.org/@inquirer/prompts/-/prompts-5.3.1.tgz#5605e6f4ac8af937bb7117c7b72c59364cf53522"
-  integrity sha512-tnw5Nu18XwM5h93KL0HK/2jYtbTBl2+UIVaFvMpcSyOm34wN+VOqMEVUyv8xsuxNXPV2pqqaZT5V1aZm19obJw==
+"@inquirer/prompts@^5.3.2":
+  version "5.3.2"
+  resolved "https://registry.npmjs.org/@inquirer/prompts/-/prompts-5.3.2.tgz#95856acfba761a1bb4e06052b55b91afcc6a940f"
+  integrity sha512-8Jv+6rbY98ilFAZMYYfetu6XGXF/ZU44i5Z6Jx4t0xmwDh/AihdBV/FgetzDDZZMv5AMW1MT35LI0FiS55LoXw==
   dependencies:
     "@inquirer/checkbox" "^2.4.2"
     "@inquirer/confirm" "^3.1.17"
@@ -878,7 +878,7 @@
     "@inquirer/number" "^1.0.5"
     "@inquirer/password" "^2.1.17"
     "@inquirer/rawlist" "^2.1.17"
-    "@inquirer/search" "^1.0.1"
+    "@inquirer/search" "^1.0.2"
     "@inquirer/select" "^2.4.2"
 
 "@inquirer/rawlist@^2.1.17":
@@ -890,10 +890,10 @@
     "@inquirer/type" "^1.5.1"
     yoctocolors-cjs "^2.1.2"
 
-"@inquirer/search@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.npmjs.org/@inquirer/search/-/search-1.0.1.tgz#f9bd2dca1aa701b9eabdd6c01cf74cd16c9dbb98"
-  integrity sha512-6nAKD4zisCqQwqiydRKZhLmnGNCeNAPQyy5WrmtBlbn4bSsObeLgyNq2nW24cH0ByR27nMi8L3bQ+YGvWax9qg==
+"@inquirer/search@^1.0.2":
+  version "1.0.2"
+  resolved "https://registry.npmjs.org/@inquirer/search/-/search-1.0.2.tgz#1650beab88145f7130c78f7865df6320160c0ccf"
+  integrity sha512-E/JD3MeJwJeNilOnRDmHGnlUksyVqrTQEUNqkRpioj8J0sVxW7+pFRHBM2coFsiCpvI4XKRRhWsai5VP8rrfrQ==
   dependencies:
     "@inquirer/core" "^9.0.5"
     "@inquirer/figures" "^1.0.5"
@@ -5112,12 +5112,12 @@ inline-style-prefixer@^7.0.1:
   dependencies:
     css-in-js-utils "^3.1.0"
 
-inquirer@10.1.1:
-  version "10.1.1"
-  resolved "https://registry.npmjs.org/inquirer/-/inquirer-10.1.1.tgz#c891333743e3d2fb283741ac1c227161b6888e69"
-  integrity sha512-mrZYmt4+TkDN+sr4L0Ps+yfiudok/Ia1R7PXDZDJ96MK5ummG2KgfRCK6NKBBIz5idfBHBz1iUUhiDezWwEwfg==
+inquirer@10.1.2:
+  version "10.1.2"
+  resolved "https://registry.npmjs.org/inquirer/-/inquirer-10.1.2.tgz#63326d74983cca7a2a067fed7416a71fcd2c8f8c"
+  integrity sha512-rwoy4e2xFz3rru5Q5695rKXLbNlVfODRhRftBEPdxHfbGzN1T8Fxzszcb//SaRnQHsRdiwR8dOZOV+y4SoZ4KQ==
   dependencies:
-    "@inquirer/prompts" "^5.3.1"
+    "@inquirer/prompts" "^5.3.2"
     "@inquirer/type" "^1.5.1"
     "@types/mute-stream" "^0.0.4"
     ansi-escapes "^4.3.2"
