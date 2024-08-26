@@ -135,7 +135,7 @@
     "terser-webpack-plugin": "^5.3.10",
     "ts-node": "10.9.2",
     "typescript": "5.5.4",
-    "webpack": "5.93.0"
+    "webpack": "5.94.0"
   },
   "electronmon": {
     "patterns": [
