@@ -126,7 +126,7 @@
     "node-addon-api": "8.1.0",
     "null-loader": "4.0.1",
     "parse-url": "8.1.0",
-    "playwright": "1.46.1",
+    "playwright": "1.47.0",
     "plist": "3.1.0",
     "prettier": "3.3.3",
     "proxyquire": "2.1.3",
