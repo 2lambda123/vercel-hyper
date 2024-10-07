@@ -656,10 +656,30 @@
     minimist "^1.2.6"
     plist "^3.0.5"
 
-"@electron/rebuild@3.6.0", "@electron/rebuild@^3.6.0":
+"@electron/rebuild@3.6.0":
   version "3.6.0"
   resolved "https://registry.npmjs.org/@electron/rebuild/-/rebuild-3.6.0.tgz#60211375a5f8541a71eb07dd2f97354ad0b2b96f"
   integrity sha512-zF4x3QupRU3uNGaP5X1wjpmcjfw1H87kyqZ00Tc3HvriV+4gmOGuvQjGNkrJuXdsApssdNyVwLsy+TaeTGGcVw==
+  dependencies:
+    "@malept/cross-spawn-promise" "^2.0.0"
+    chalk "^4.0.0"
+    debug "^4.1.1"
+    detect-libc "^2.0.1"
+    fs-extra "^10.0.0"
+    got "^11.7.0"
+    node-abi "^3.45.0"
+    node-api-version "^0.2.0"
+    node-gyp "^9.0.0"
+    ora "^5.1.0"
+    read-binary-file-arch "^1.0.6"
+    semver "^7.3.5"
+    tar "^6.0.5"
+    yargs "^17.0.1"
+
+"@electron/rebuild@^3.6.2":
+  version "3.6.2"
+  resolved "https://registry.npmjs.org/@electron/rebuild/-/rebuild-3.6.2.tgz#234f76d08566d558a80a615a78d8735f39bf5e9f"
+  integrity sha512-fTSoWdbrPTmQOwvct4VnJH45aJg79WRabuNqt7cAWIno5kTXv1QD6qVmR2e8wmHi/xryaiVINl1gcEhKGjREVw==
   dependencies:
     "@malept/cross-spawn-promise" "^2.0.0"
     chalk "^4.0.0"
